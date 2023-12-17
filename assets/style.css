@@ -1,0 +1,118 @@
+.navbar-brand{
+    font-size: 2.1rem;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.navbar-nav
+{
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+.navbar{
+    position: static;
+    padding: 1% 3% 2%;
+    background-color: white;
+}
+
+
+/* footer */
+
+.footer
+{
+    color: white;
+    background-color: black;
+    left: 0;
+    bottom: 0;
+    text-align:left ;
+}
+.footer a:link {
+    color: white;
+    text-decoration: none;
+}
+.footer a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+
+.padding1
+{
+    padding: 1% 3% 1%;
+}
+
+.custom-border {
+    border: 2px solid #e4b3b3;
+    border-radius: 10px;
+}
+.border2 {
+    border: 2px solid #866be8;
+    border-radius: 10px;
+}
+
+
+
+
+.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.login-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+}
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #2dbf6f;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.logout-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #c83b49;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
+.notice-box {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(238, 146, 146, 0.1);
+    text-align: center;
+    padding: 1% 3% 1%;
+    border-color: #242525;
+}
+
+.notice-box2 {
+    background-color: rgb(247, 226, 226);
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(238, 146, 146, 0.1);
+    text-align: center;
+    padding: 1% 3% 1%;
+    border-color: #242525;
+}
+
+
+.padding2
+{
+    padding: 1% 5% 1%;
+}
